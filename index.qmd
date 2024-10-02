@@ -1,5 +1,14 @@
 ---
 title: "Yajun Liu"
+image: yajun.jpg
+toc: false
+about: 
+  template: jolla
+  image-shape: round
+  image-width: 17em
+  links:
+    - text: Email
+      href: mailto::yajun.liu@ed.ac.uk
 ---
 
 Hi, I am final-year PhD student in Linguistics at the School of Philosophy, Psychology and Language Sciences, the University of Edinburgh. I am supervised by [Professor Kenny Smith](https://www.ed.ac.uk/profile/kenny-smith) and [Professor Antonella Sorace](https://www.ed.ac.uk/profile/antonella-sorace). I am also a member of [Centre for Language Evolution](https://cle.ppls.ed.ac.uk/). My research project focuses on the reference production among bilingual speakers to explore the phenomenon of referential over-explicitness observed in bilingual speakers and the underlying mechanisms that motivate this behavior from cognitive and linguistic perspectives. I am also interested in the role of communication in shaping languages over time within the bilingual communities.
