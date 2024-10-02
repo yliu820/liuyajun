@@ -8,13 +8,16 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - experience.qmd
+      - tutoring.qmd
+      - publication.qmd
 
 format:
   html:
     theme: cosmo
     css: styles.css
     toc: true
+    page-layout: full
 
 editor: visual
 

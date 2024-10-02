@@ -1,6 +1,6 @@
 ---
 title: "Yajun Liu"
-image: yajun.jpg
+image: yajun.png
 toc: false
 about: 
   template: jolla
