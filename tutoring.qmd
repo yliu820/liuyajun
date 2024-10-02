@@ -1,0 +1,33 @@
+---
+title: "Tutoring"
+---
+
+<h1>CURRENT</h1>
+
+<h2>[Online Experiments for Language Scientists](https://kennysmithed.github.io/oels2024/), September 2024 - present</h2>
+
+<p>jsPsych (JavaScript)</p>
+
+<h2>Introduction to Cognitive Science, September 2024 – present</h2>
+
+<p>Python</p>
+
+<br>
+
+<h1>UPCOMING</h1>
+
+<h2>Simulating Language, January - May 2025</h2>
+
+<p>Python matlab</p>
+
+<br>
+
+<h1>PAST</h1>
+
+<h2>
+
+Data Analysis for Psychology Using R 2, September 2022 - May 2023
+
+<h2>
+
+<p>R</p>
