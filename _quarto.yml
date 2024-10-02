@@ -3,14 +3,17 @@ project:
   output-dir: docs
 
 website:
-  title: "liuyajun"
+  title: "Yajun Liu"
   navbar:
-    left:
+    right:
       - href: index.qmd
         text: Home
       - experience.qmd
       - tutoring.qmd
       - publication.qmd
+      - href: CV.pdf
+        text: CV
+        target: _blank # opens link (or page) in a new browser tab
 
 format:
   html:
