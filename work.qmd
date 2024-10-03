@@ -6,38 +6,40 @@ title: "Work Experience"
 
 <h2>Current</h2>
 
-<p>[Online Experiments for Language Scientists](https://kennysmithed.github.io/oels2024/), September 2024 - present</p>
+<p><strong>[Online Experiments for Language Scientists](https://kennysmithed.github.io/oels2024/)</strong>, September 2024 - present</p>
 
-<p2>jsPsych (JavaScript)</p2>
+-   <p>During course labs, we assist undergraduate and postgraduate students in building online experiments using jsPsych (JavaScript). </p>
 
-<p>Introduction to Cognitive Science, September 2024 – present</p>
+<p>I<strong>ntroduction to Cognitive Science</strong>, September 2024 – present</p>
 
-<p2>Python</p2>
+-   <p>During course labs, we gradually guide undergraduate students in learning how to use programming, specifically python, to solve research problems in cognitive science. </p>
 
 <h2>Upcoming</h2>
 
-<p>Simulating Language, January - May 2025</p>
+<p><strong>Simulating Language</strong>, January - May 2025</p>
 
-<p2>Python</p2>
+-   <p>During this course, we will design and conduct experiments using simple models to explore various questions, ranging from how we learn word meanings to the evolution of the language faculty. </p>
 
 <h2>Completed</h2>
 
-<p>Data Analysis for Psychology Using R 2, September 2022 - May 2023</p>
+<p><strong>Data Analysis for Psychology Using R 2</strong>, September 2022 - May 2023</p>
+
+-   <p> During course labs, we assisted undergraduate students with data analysis exercises and projects.
 
 <br>
 
 <h1>Co-supervision</h1>
 
-<p>Co-supervising a Master's dissertation project in MSc Evolution of Language and Cognition with Professor Kenny Smith, March 2024 - August 2024</p>
+<p><strong>Co-supervising a Master's dissertation project</strong> in the MSc Evolution of Language and Cognition program with Professor Kenny Smith, from March 2024 to August 2024</p>
 
-<p2>This project explores bilingual reference production under cognitive load</p2>
+-   <p>This project explores bilingual reference production under cognitive load</p>
 
 <br>
 
 <h1>Research Assistant</h1>
 
-<p>Learning and Teaching Mandarin in Scotland, November 2022 - December 2023</p>
+<p><strong>Learning and Teaching Mandarin in Scotland</strong>, November 2022 - December 2023</p>
 
-<p2>This project is led by Professor Antonella Sorace and funded by Confucius Institute for Scotland's Schools (CISS) and Scotland's National Centre for Languages (SCILT). Along with the other two research assistants, I engaged in designing questions for questionnaires and interviews, contacting schools, conducting interviews with pupils and teachers, performing quantitative and qualitative analysis as well as preparing a report.</p2>
+-   <p>This project is led by Professor Antonella Sorace and funded by Confucius Institute for Scotland's Schools (CISS) and Scotland's National Centre for Languages (SCILT). Along with the other two research assistants, I engaged in designing questions for questionnaires and interviews, contacting schools, conducting interviews with pupils and teachers, performing quantitative and qualitative analysis as well as preparing a report.</p>
 
 <br>
