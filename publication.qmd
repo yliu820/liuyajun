@@ -4,4 +4,4 @@ title: "Publications"
 
 Under Review
 
-`<p>Mandarin speakers produce more explicit referring expressions</p>`
+`<p>` Mandarin speakers produce more explicit referring expressions `</p>`
