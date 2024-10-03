@@ -2,6 +2,6 @@
 title: "Publications"
 ---
 
-Under Review
+<h1>Under Review</h1>
 
-`<p>` Mandarin speakers produce more explicit referring expressions `</p>`
+<p>Liu, Y., Sorace, A., Smith, K. (Under Review). Mandarin bilingual speakers undergoing attrition produce more explicit referring expressions. *Bilingualism: Language and Cognition.* </p>
