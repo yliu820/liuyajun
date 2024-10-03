@@ -6,13 +6,6 @@ about:
   template: jolla
   image-shape: round
   image-width: 18em
-  #- icon: envelope
-  #  text: "yajun.liu@ed.ac.uk"
-  #- icon: map-pin
-  #  text: |
-  #    Dugald Stewart Building  
-  #    Edinburgh, EH8 9AD  
-  #    United Kingdom
   links:
     - icon: envelope
       text: Email
