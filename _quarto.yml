@@ -12,8 +12,8 @@ website:
     right:
       - href: index.qmd
         text: Home
-      - experience.qmd
-      - tutoring.qmd
+      - education.qmd
+      - work.qmd
       - publication.qmd
       - href: CV.pdf
         text: CV
