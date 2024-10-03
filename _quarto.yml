@@ -21,7 +21,7 @@ website:
   page-footer:
     background: light # or `dark`
     left: "<p style='font-size:15px; color:#828282'>© Yajun Liu 2024. All rights reserved.</p>"
-    right: "<p style='font-size:15px; color:#828282'>Powered by [Quarto](https://quarto.org)</p>"
+    right: "<p style='font-size:15px; color:#828282'>Powered by Quarto</p>"
 
     
     
