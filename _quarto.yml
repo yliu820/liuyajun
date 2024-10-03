@@ -20,7 +20,9 @@ website:
         target: _blank # opens link (or page) in a new browser tab
   page-footer:
     background: light # or `dark`
-    left: Copyright 2024, Yajun Liu
+    left: "© Yajun Liu 2024. All rights reserved."
+
+    
     
 
 format:
