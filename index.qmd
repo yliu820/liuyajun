@@ -9,7 +9,7 @@ about:
   links:
     - icon: envelope
       text: Email
-      href: mailto:yajun.liu@ed.ac.uk
+      href: mailto::yajun.liu@ed.ac.uk
 ---
 
 Hi, I a am final-year (4th) PhD student in Linguistics at the School of Philosophy, Psychology and Language Sciences (PPLS), the University of Edinburgh. I am supervised by [Professor Kenny Smith](https://www.ed.ac.uk/profile/kenny-smith) and [Professor Antonella Sorace](https://www.ed.ac.uk/profile/antonella-sorace). I am also a member of the [Centre for Language Evolution](https://cle.ppls.ed.ac.uk/). My research project focuses on the phenomenon of referential over-explicitness in the native language of late bilinguals undergoing first language attrition, specifically among speakers of L1 Chinese with L2 English and L1 Chinese with L2/L3 Italian or Spanish. I also explore the underlying mechanisms of this phenomenon from both linguistic and cognitive perspectives. Additionally, I am interested in the role of communication in shaping languages over time within the bilingual communities.

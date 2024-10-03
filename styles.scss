@@ -24,6 +24,11 @@ p{
   font-size: 23px;
 }
 
-p2{text-indent: 10em;
+p2{
   font-size: 20px;
+}
+
+.no-bullet {
+    list-style-type: none;
+    margin-left: 0;
 }

@@ -1,4 +1,4 @@
-﻿@import"https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@300;400;700&display=swap";*{color:#000}.title{font-size:50px}h1,.h1{font-size:30px}h2,.h2{font-size:25px}p{font-size:23px}p2{text-indent:10em;font-size:20px}/*!
+﻿@import"https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@300;400;700&display=swap";*{color:#000}.title{font-size:50px}h1,.h1{font-size:30px}h2,.h2{font-size:25px}p{font-size:23px}p2{font-size:20px}.no-bullet{list-style-type:none;margin-left:0}/*!
  * Bootstrap  v5.3.1 (https://getbootstrap.com/)
  * Copyright 2011-2023 The Bootstrap Authors
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/main/LICENSE)
