@@ -6,7 +6,7 @@ title: "Work Experience"
 
 -   <h2>Current</h2>
 
-    -   <p><strong>[Online Experiments for Language Scientists](https://kennysmithed.github.io/oels2024/)</strong>, September 2024 - present</p>
+    -   <p><a href="https://kennysmithed.github.io/oels2024/" target="_blank"><strong>Online Experiments for Language Scientists</strong></a>, September 2024 - present</p>
 
         -   <p>During course labs, we assist undergraduate and postgraduate students in building online experiments using jsPsych (JavaScript).</p>
 
