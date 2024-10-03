@@ -21,7 +21,7 @@ website:
   page-footer:
     background: light # or `dark`
     left: Copyright 2024, Yajun Liu
-    center: "Address: 3 Charles Stree, Edinburgh, EH8 9AD"
+    center: "Address: 3 Charles Street, Edinburgh, EH8 9AD"
     
 
 format:
