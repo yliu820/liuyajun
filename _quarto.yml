@@ -20,7 +20,7 @@ website:
         target: _blank # opens link (or page) in a new browser tab
   page-footer:
     background: light # or `dark`
-    left: "<p style='font-size:10px; color:#828282'>© Yajun Liu 2024. All rights reserved.</p>"
+    left: "<p style='font-size:20px; color:#828282'>© Yajun Liu 2024. All rights reserved.</p>"
 
     
     
