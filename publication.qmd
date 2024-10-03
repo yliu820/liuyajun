@@ -1,9 +1,23 @@
 ---
-title: "Publications"
+title: "Publications & Presentations"
 ---
 
 <br>
 
-<h1>Under Review</h1>
+<h1>Publications</h1>
 
-<p>Liu, Y., Sorace, A., Smith, K. (Under Review). Mandarin bilingual speakers undergoing attrition produce more explicit referring expressions. *Bilingualism: Language and Cognition.* </p>
+-   <h2>Under Review</h2>
+
+    -   <p>Liu, Y., Sorace, A., & Smith, K. (Under Review). Mandarin bilingual speakers undergoing attrition produce more explicit referring expressions. <em>Bilingualism: Language and Cognition.</em> <a href="manuscript_YL.pdf" target="_blank">Manuscript Link</a></p>
+    
+------------------------------------------------------------------------
+
+<h1>Presentations</h1>
+
+-   <h2>Posters</h2>
+
+    -   <p>Liu, Y., Sorace, A., & Smith, K. Mandarin bilingual speakers undergoing attrition produce more explicit referring expressions.(MORE DATA). Poster presented at the 30th Architectures and Mechanisms for Language Processing,University of Edinburgh, Edinburgh, UK, September 2024. <a href="AMLap_poster.pdf" target="_blank">AMLaP Poster</a></p>
+
+    -   <p>Liu, Y., Sorace, A, & Smith, K. Mandarin bilingual speakers undergoing attrition produce more explicit referring expressions.Poster presented at the 37th Human Sentence Processing, University of Michigan, Ann Arbor, US, May 2024. <a href="HSP_poster.pdf" target="_blank">HSP Poster</a></p>
+
+    -   <p>Liu, Y., Luo, Q., Sorace, A, & Smith, K. Exploring the role of communicative interaction in L1 attrition: Evidence from null and overt subjects in an artificial language. Poster presented at Bilingualism Matters Research Symposium, Edinburgh, UK, October 2022. <a href="BMRS_poster.pdf" target="_blank">BMRS Poster</a></p>
