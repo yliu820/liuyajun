@@ -12,7 +12,7 @@ title: "Publications & Presentations"
 
 <h1>Presentations</h1>
 
--   <h2>Posters</h2>
+-   <h2>Selected Posters</h2>
 
     -   <p>Liu, Y., Sorace, A., & Smith, K. Mandarin bilingual speakers undergoing attrition produce more explicit referring expressions.(MORE DATA). Poster presented at the 30th Architectures and Mechanisms for Language Processing,University of Edinburgh, Edinburgh, UK, September 2024. <a href="AMLaP_poster.pdf" target="_blank">AMLaP Poster</a></p>
 
