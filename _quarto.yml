@@ -21,6 +21,8 @@ website:
   page-footer:
     background: light # or `dark`
     left: Copyright 2024, Yajun Liu
+    
+    
 
 format:
   html:
