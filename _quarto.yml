@@ -15,7 +15,7 @@ website:
       - education.qmd
       - work.qmd
       - publication.qmd
-      - href: CV.pdf
+      - href: CV_YL.pdf
         text: CV
         target: _blank # opens link (or page) in a new browser tab
   page-footer:
