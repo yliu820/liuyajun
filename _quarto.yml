@@ -4,7 +4,11 @@ project:
 
 website:
   title: "Yajun Liu"
+  favicon: dove-solid.svg
   navbar:
+    title: false # override printing your website `title` (e.g. "Sam Csik" on line 6) in the top left corner of your navbar
+    logo: dove-solid.svg
+    logo-alt: "Alt text for logo"
     right:
       - href: index.qmd
         text: Home
@@ -20,8 +24,10 @@ website:
 
 format:
   html:
-    theme: cosmo
-    css: styles.css
+    theme: 
+      - cosmo
+      - styles.scss
+    #css: styles.css
     toc: true
     page-layout: full
   
