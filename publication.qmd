@@ -7,8 +7,16 @@ title: "Publications & Presentations"
 -   <h2>Under Review</h2>
 
     -   <p>Liu, Y., Sorace, A., & Smith, K. (Under Review). Mandarin bilingual speakers undergoing attrition produce more explicit referring expressions. <em>Bilingualism: Language and Cognition.</em> <a href="manuscript_YL.pdf" target="_blank">Check out here</a></p>
+
+-   <h2>In Preparation</h2>
+
+    -   <p>
+
+        Liu, Y., Sorace, A., & Smith, K. (In Prep). Cross-linguistic influence and referential preferences in Mandrin multilingual speakers.
+
+    -   Liu, Y., Sorace, A., & Smith, K. (In Prep). Are bilinguals are more sensitive to lexical ambiguity?
     
-------------------------------------------------------------------------
+    -   Liu, Y., Sorace, A., & Smith, K. (In Prep). Bilingual reference production under cognitive load.</p>
 
 <h1>Presentations</h1>
 
