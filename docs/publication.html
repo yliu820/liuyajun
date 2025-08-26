@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.5.57">
+<meta name="generator" content="quarto-1.6.42">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -36,10 +36,10 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-2f5df379a58b258e96c21c0638c20c03.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-077bcc357b94ff9853728202374626aa.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -154,8 +154,8 @@ Under Review
 <ul>
 <li><p>
 </p><p>Liu, Y., Sorace, A., &amp; Smith, K. (Under Review). Mandarin bilingual speakers undergoing attrition produce more explicit referring expressions. <a href="manuscript_final_YL+AS+KS.pdf" target="_blank">Check out here</a></p></li>
-<li><p>Liu, Y., Sorace, A., &amp; Smith, K. (Under Review). Beyond Crosslinguistic influence: Mandarin Speakers with Exposure to Null-subject Languages Nonetheless Use Fewer Null Pronouns in Mandarin. <a href="beyond_crosslinguistic_influence_YL+AS+KS.pdf" target="_blank">Check out here</a></p></li>
-<li><p>Liu, Y., Sorace, A., &amp; Smith, K. (Under Review). Do bilinguals avoid ambiguity? An experimental study of lexical ambiguity in spoken Mandarin. <a href="do_bilinguals_avoid_ambiguity_YL+AS+KS.pdf" target="_blank">Check out here</a></p>
+<li><p>Liu, Y., Sorace, A., &amp; Smith, K. (Accepted). Beyond Crosslinguistic influence: Mandarin Speakers with Exposure to Null-subject Languages Nonetheless Use Fewer Null Pronouns in Mandarin. <a href="beyond_crosslinguistic_influence_YL+AS+KS.pdf" target="_blank">Check out here</a></p></li>
+<li><p>Liu, Y., Sorace, A., &amp; Smith, K. (Preprint). Do bilinguals avoid ambiguity? An experimental study of lexical ambiguity in spoken Mandarin. <a href="do_bilinguals_avoid_ambiguity_YL+AS+KS.pdf" target="_blank">Check out here</a></p>
 <p></p></li>
 </ul></li>
 <li><h2 class="anchored">
@@ -163,7 +163,7 @@ In Preparation
 </h2>
 <ul>
 <li><p>
-Liu, Y., Sorace, A., &amp; Smith, K. (In Prep). Bilingual reference production under cognitive load.
+Liu, Y., Sorace, A., &amp; Smith, K. (In Prep). A desire to avoid ambiguity or ease processing? Insights from an experimental study of lexical ambiguity in spoken Mandarin using online eye-tracking
 </p></li>
 </ul></li>
 </ul>
@@ -176,7 +176,10 @@ Selected Posters
 </h2>
 <ul>
 <li><p>
-Liu, Y., Sorace, A., &amp; Smith, K. Mandarin bilingual speakers undergoing attrition produce more explicit referring expressions.(MORE DATA). Poster presented at the 30th Architectures and Mechanisms for Language Processing,University of Edinburgh, Edinburgh, UK, September 2024. <a href="AMLaP_poster.pdf" target="_blank">AMLaP Poster</a>
+Liu, Y., Sorace, A., &amp; Smith, K. A desire to avoid ambiguity or ease processing? Insights from an experimental study of lexical ambiguity in spoken Mandarin using online eye-tracking. Poster to be presented at the 47th Annual Meeting of the Cognitive Science Society, San Francisco, US, August 2025. <a href="cogsci_poster.pdf" target="_blank">CogSci Poster</a>
+</p></li>
+<li><p>
+Liu, Y., Sorace, A., &amp; Smith, K. Mandarin bilingual speakers undergoing attrition produce more explicit referring expressions.(MORE DATA). Poster presented at the 30th Architectures and Mechanisms for Language Processing, University of Edinburgh, Edinburgh, UK, September 2024. <a href="AMLaP_poster.pdf" target="_blank">AMLaP Poster</a>
 </p></li>
 <li><p>
 Liu, Y., Sorace, A, &amp; Smith, K. Mandarin bilingual speakers undergoing attrition produce more explicit referring expressions.Poster presented at the 37th Human Sentence Processing, University of Michigan, Ann Arbor, US, May 2024. <a href="HSP_poster.pdf" target="_blank">HSP Poster</a>
@@ -272,8 +275,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   });
   clipboard.on('success', onCopySuccess);
   if (window.document.getElementById('quarto-embedded-source-code-modal')) {
-    // For code content inside modals, clipBoardJS needs to be initialized with a container option
-    // TODO: Check when it could be a function (https://github.com/zenorocha/clipboard.js/issues/860)
     const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
       text: getTextToCopy,
       container: window.document.getElementById('quarto-embedded-source-code-modal')
@@ -384,7 +385,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       if (window.Quarto?.typesetMath) {
         window.Quarto.typesetMath(note);
       }
-      // TODO in 1.5, we should make sure this works without a callout special case
       if (note.classList.contains("callout")) {
         return note.outerHTML;
       } else {
