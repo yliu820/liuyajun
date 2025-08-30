@@ -8,7 +8,7 @@ title: "Work Experience"
 
     -   <p><strong>Computational Sociology</strong>, September 2025 - </p>
 
-        -   <p>During this course, we will design and conduct experiments using simple models to explore various questions, ranging from how we learn word meanings to the evolution of the language faculty.</p>
+        -   <p>This course provides student with an introduction to the technical and statistical dimensions of different computational methods, hands-on examples of their use, and a venue of seminar discussion of applied examples.</p>
 
 <!-- -->
 
