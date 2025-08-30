@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.5.57">
+<meta name="generator" content="quarto-1.6.42">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -36,10 +36,10 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-2f5df379a58b258e96c21c0638c20c03.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-077bcc357b94ff9853728202374626aa.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -149,28 +149,23 @@ Tutoring
 </h1>
 <ul>
 <li><h2 class="anchored">
-Current
+Upcoming
 </h2>
 <ul>
 <li><p>
-<strong><a href="https://kennysmithed.github.io/oels2024/" target="_blank">Online Experiments for Language Scientists</a></strong>, September 2024 - present
+<strong>Computational Sociology</strong>, September 2025 -
 </p>
 <ul>
 <li><p>
-During course labs, we assist undergraduate and postgraduate students in building online experiments using jsPsych (JavaScript).
+This course provides student with an introduction to the technical and statistical dimensions of different computational methods, hands-on examples of their use, and a venue of seminar discussion of applied examples.
 </p></li>
 </ul></li>
-<li><p>
-<strong>Introduction to Cognitive Science</strong>, September 2024 – present
-</p>
+</ul></li>
+</ul>
+<!-- -->
 <ul>
-<li><p>
-During course labs, we gradually guide undergraduate students in learning how to use programming, specifically python, to solve research problems in cognitive science.
-</p></li>
-</ul></li>
-</ul></li>
 <li><h2 class="anchored">
-Upcoming
+Completed
 </h2>
 <ul>
 <li><p>
@@ -178,20 +173,32 @@ Upcoming
 </p>
 <ul>
 <li><p>
-During this course, we will design and conduct experiments using simple models to explore various questions, ranging from how we learn word meanings to the evolution of the language faculty.
+During this course, we designed and conducted experiments using simple models to explore various questions, ranging from how we learn word meanings to the evolution of the language faculty.
 </p></li>
 </ul></li>
-</ul></li>
-<li><h2 class="anchored">
-Completed
-</h2>
+<li><p>
+<strong><a href="https://kennysmithed.github.io/oels2024/" target="_blank">Online Experiments for Language Scientists</a></strong>, September 2024 - December 2024
+</p>
 <ul>
+<li><p>
+During course labs, we assisted undergraduate and postgraduate students in building online experiments using jsPsych (JavaScript).
+</p></li>
+</ul></li>
+<li><p>
+<strong>Introduction to Cognitive Science</strong>, September 2024 – December 2024
+</p>
+<ul>
+<li><p>
+During course labs, we gradually guided undergraduate students in learning how to use programming, specifically python, to solve research problems in cognitive science.
+</p></li>
+</ul></li>
 <li><p>
 <strong>Data Analysis for Psychology Using R 2</strong>, September 2022 - May 2023
 </p>
 <ul>
 <li><p>
-During course labs, we assisted undergraduate students with data analysis exercises and projects.</p></li>
+During course labs, we assisted undergraduate students with data analysis exercises and projects.
+</p><p></p></li>
 </ul></li>
 </ul></li>
 </ul>
@@ -310,8 +317,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   });
   clipboard.on('success', onCopySuccess);
   if (window.document.getElementById('quarto-embedded-source-code-modal')) {
-    // For code content inside modals, clipBoardJS needs to be initialized with a container option
-    // TODO: Check when it could be a function (https://github.com/zenorocha/clipboard.js/issues/860)
     const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
       text: getTextToCopy,
       container: window.document.getElementById('quarto-embedded-source-code-modal')
@@ -422,7 +427,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       if (window.Quarto?.typesetMath) {
         window.Quarto.typesetMath(note);
       }
-      // TODO in 1.5, we should make sure this works without a callout special case
       if (note.classList.contains("callout")) {
         return note.outerHTML;
       } else {
