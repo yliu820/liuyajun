@@ -8,7 +8,7 @@ title: "Work Experience"
 
     -   <p><strong>Computational Sociology</strong>, September 2025 - </p>
 
-        -   <p>This course provides student with an introduction to the technical and statistical dimensions of different computational methods, hands-on examples of their use, and a venue of seminar discussion of applied examples.</p>
+        -   <p>This course provides student with an introduction to the technical and statistical dimensions of different computational methods, hands-on examples of their use, and a venue of seminar discussion of applied examples. </p>
 
 <!-- -->
 
