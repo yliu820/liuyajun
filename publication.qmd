@@ -16,9 +16,9 @@ title: "Publications & Presentations"
 
         </p>
 
--   <h2>In Preparation</h2>
+-   <h2>Under Review</h2>
 
-    -   <p>Liu, Y., Sorace, A., & Smith, K. (In Prep). A desire to avoid ambiguity or ease processing? Insights from an experimental study of lexical ambiguity in spoken Mandarin using online eye-tracking. <a href="a_desire_to_avoid_ambiguity.pdf" target="_blank">Check out here</a></p>
+    -   <p>Liu, Y., Sorace, A., & Smith, K. (In Prep). Do bilinguals avoid ambiguity or minimise processing effort? Insights from an online eye-tracking study in spoken Mandarin. <a href="manuscript.pdf" target="_blank">Check out here</a></p>
 
 <h1>Presentations</h1>
 
