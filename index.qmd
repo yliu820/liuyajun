@@ -1,0 +1,15 @@
+---
+title: "Yajun Liu"
+image: yajun.png
+toc: false
+about: 
+  template: jolla
+  image-shape: round
+  image-width: 18em
+  links:
+    - icon: envelope
+      text: Email
+      href: mailto:yajun.liu@ed.ac.uk
+---
+
+Hi, I am a final-year (4th) PhD student in Linguistics at the School of Philosophy, Psychology and Language Sciences (PPLS), the University of Edinburgh. I am supervised by <a href="https://www.ed.ac.uk/profile/kenny-smith" target="_blank">Professor Kenny Smith</a> and <a href="https://www.ed.ac.uk/profile/antonella-sorace" target="_blank">Professor Antonella Sorace</a>. I am also a member of the <a href="https://cle.ppls.ed.ac.uk/" target="_blank">Centre for Language Evolution</a>. My research project focuses on how native speakers with varying language experiences detect and resolve referential ambiguity. I explore the underlying mechanisms of their linguistic choices from both linguistic and cognitive perspectives. More broadly, I am interested in the role of communication in shaping languages over time.

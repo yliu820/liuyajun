@@ -1,0 +1,40 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Yajun Liu"
+  favicon: dove-solid.svg
+  navbar:
+    title: false # override printing your website `title` (e.g. "Sam Csik" on line 6) in the top left corner of your navbar
+    logo: dove-solid.svg
+    logo-alt: "Alt text for logo"
+    right:
+      - href: index.qmd
+        text: Home
+      - education.qmd
+      - work.qmd
+      - publication.qmd
+      - href: CV_YL.pdf
+        text: CV
+        target: _blank # opens link (or page) in a new browser tab
+  page-footer:
+    background: light # or `dark`
+    left: "<p style='font-size:15px; color:#828282'>© Yajun Liu 2024. All rights reserved.</p>"
+    right: "<p style='font-size:15px; color:#828282'>Powered by Quarto</p>"
+
+    
+    
+
+format:
+  html:
+    theme: 
+      - cosmo
+      - styles.scss
+    #css: styles.css
+    toc: true
+    page-layout: full
+  
+
+editor: visual
+
